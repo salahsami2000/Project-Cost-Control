@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">تكلفة المشروع</string>
+    <string name="app_title_ar">إدارة تكلفة المشروع</string>
+    <string name="app_title_en">Project Cost Management</string>
+</resources>

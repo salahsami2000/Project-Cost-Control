@@ -1,0 +1,6 @@
+{
+  "name": "إدارة تكلفة المشروع",
+  "description": "تطبيق عربي عملي وتعليمي لإدارة تكلفة مشروعات البناء وفق دليل PMBOK® الإصدار السادس وتحليل القيمة المكتسبة (EVM)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
